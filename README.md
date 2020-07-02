@@ -1,12 +1,11 @@
-# Next.js with TypeScript example
+# Next.js with TypeScript, Material UI, Next Auth example
 
 ## How to use
 
-Download the example [or clone the repo](https://github.com/mui-org/material-ui):
 
 ```sh
-curl https://codeload.github.com/mui-org/material-ui/tar.gz/master | tar -xz --strip=2  material-ui-master/examples/nextjs-with-typescript
-cd nextjs-with-typescript
+git clone https://github.com/iwoork/nextjs-typescript-material-ui-auth.git
+cd nextjs-typescript-material-ui-auth
 ```
 
 Install it and run:
@@ -15,10 +14,6 @@ Install it and run:
 npm install
 npm run dev
 ```
-
-or:
-
-[![Edit on CodeSandbox](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/mui-org/material-ui/tree/master/examples/nextjs-with-typescript)
 
 ## The idea behind the example
 
